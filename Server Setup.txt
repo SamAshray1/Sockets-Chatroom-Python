@@ -1,3 +1,9 @@
+Chat room
+No UI
+Name only sign in
+Multiple rooms
+
+
 Server Setup
 Import Libraries:
     socket

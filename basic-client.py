@@ -3,12 +3,11 @@ import socket
 s = socket.socket()
 port = 12345
 
-# s.bind(('', port))
 
 s.connect(('127.0.0.1', port))
 
 # print(s.recv(1024).decode())
-s.send("Hi I've connected\n Sam".encode())
+s.send("Hi I've connected".encode())
 
 while True:
     sendMessage = input()
