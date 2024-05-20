@@ -3,9 +3,9 @@ Learnt how sockets work and how threads are used for concurrency, when reading a
 
 Features:
 > CLI only Chatroom (No UI planned).<br>
-> Client can message and see other client's messages.
-> To exit the Chatroom type "close" in CLI of client.
-> To stop the server type "exit" in CLI of server.
+> Client can message and see other client's messages.<br>
+> To exit the Chatroom type "close" in CLI of client.<br>
+> To stop the server type "exit" in CLI of server.<br><br>
 
 Steps to Run the Applicaton:
   To run the Server:
